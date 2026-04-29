@@ -4,42 +4,42 @@
 
 1. Line 12 will return 3, because i as declared with var
 
-![image2](../../pictures/lab4-part1b-q2.png)
+<img src="../../pictures/lab4-part1b-q2.png" width="50%">
 
-2. Line 13 will return 150, because discountedPrice was declared using var it's accessible outside its code block
+1. Line 13 will return 150, because discountedPrice was declared using var it's accessible outside its code block
 
-![image3](../../pictures/lab4-part1b-q3.png)
+<img src="../../pictures/lab4-part1b-q3.png" width="50%">
 
-3. Line 14 will return 150
+1. Line 14 will return 150
 
-![image4](../../pictures/lab4-part1b-q4.png)
+<img src="../../pictures/lab4-part1b-q4.png" width="50%">
 
-4. The function will return an array containing the  values [50,100,150]
+1. The function will return an array containing the  values [50,100,150]
 
-![image5](../../pictures/lab4-part1b-q5.png)
+<img src="../../pictures/lab4-part1b-q5.png" width="50%">
 
-5. Line 12 will return an error because i was declared using let, so it's not available outside of its for loop block
+1. Line 12 will return an error because i was declared using let, so it's not available outside of its for loop block
 
-![image6](../../pictures/lab4-part1b-q6.png)
+<img src="../../pictures/lab4-part1b-q6.png" width="50%">
 
-6. Line 13 will return an error because discountedPrice was declared using let, so it's not available outside of its block
+1. Line 13 will return an error because discountedPrice was declared using let, so it's not available outside of its block
 
-![image7](../../pictures/lab4-part1b-q7.png)
+<img src="../../pictures/lab4-part1b-q7.png" width="50%">
 
-7. Line 14 will return 150
+1. Line 14 will return 150
 
-![image8](../../pictures/lab4-part1b-q8.png)
+<img src="../../pictures/lab4-part1b-q8.png" width="50%">
 
-8. The function will return an array containing the  values [50,100,150]
+1. The function will return an array containing the  values [50,100,150]
 
-![image9](../../pictures/lab4-part1b-q9.png)
+<img src="../../pictures/lab4-part1b-q9.png" width="50%">
 
-9. Line 11 will return an error because i was declared using let, so it's not available outside of its for loop block
+1. Line 11 will return an error because i was declared using let, so it's not available outside of its for loop block
 
-![image10](../../pictures/lab4-part1b-q10.png)
+<img src="../../pictures/lab4-part1b-q10.png" width="50%">
 
-10. Line 12 will return 3
+1.  Line 12 will return 3
 
-![image11](../../pictures/lab4-part1b-q11.png)
+<img src="../../pictures/lab4-part1b-q11.png" width="50%">
 
-11. The function will return an error because disocunted was declared using const
+1.  The function will return an error because disocunted was declared using const
