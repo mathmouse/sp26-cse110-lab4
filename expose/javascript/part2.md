@@ -43,3 +43,17 @@
 <img src="../../pictures/lab4-part1b-q11.png" width="50%">
 
 11.  The function will return an error because disocunted was declared using const
+
+## Data Types
+
+<img src="../../pictures/lab4-part1b-q12.png>
+
+Accessing the value of the name property in the student object: student.name
+
+Accessing the value of the Grad Year property in the student object: student['Grad Year']
+
+Calling the function for the greeting property in the student object: student.greeting()
+
+Accessing the name property of the object in the Favorite Teacher property in student: student['Favorite Teacher'].name
+
+Access index zero in the array of the courseLoad property of the student object: student.courseLoad[0]
