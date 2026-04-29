@@ -46,7 +46,7 @@
 
 ## Data Types
 
-<img src="../../pictures/lab4-part1b-q12.png>
+<img src="../../pictures/lab4-part1b-q12.png" width="50%">
 
 Accessing the value of the name property in the student object: student.name
 
