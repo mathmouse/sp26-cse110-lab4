@@ -88,4 +88,6 @@ Access index zero in the array of the courseLoad property of the student object:
 
 ## setInterval(), setTimeout(), clearTimeout()
 
+<img src="../../pictures/lab4-part1b-q19.png" width="50%">
+
 19. 1 and 4 are logged immediately, then 3 is logged because setTimeout waits for console.log to finish/the stack to clear, then 2 is logged because it has a 1 second timeout
