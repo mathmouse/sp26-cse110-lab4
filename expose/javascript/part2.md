@@ -1,6 +1,6 @@
 # Part 2. A Little More of a Challenge...
 
-![image1](../../pictures/lab4-part1b-q1.png)
+<img src="../../pictures/lab4-part1b-q1.png" width="50%">
 
 1. Line 12 will return 3, because i as declared with var
 
