@@ -85,3 +85,7 @@ Access index zero in the array of the courseLoad property of the student object:
 <img src="../../pictures/lab4-part1b-q17.png" width="50%">
 
 17. The function modifyArray will create an array newArr and begin a for loop. For each value within the passed array [1,2,3], the loop calls the doSomething function, which takes the value and multiplies it by 2. Those doubled values are pushed within newArr, which is then returned. newArr = [2,4,6]
+
+## setInterval(), setTimeout(), clearTimeout()
+
+19. 1 and 4 are logged immediately, then 3 is logged because setTimeout waits for console.log to finish/the stack to clear, then 2 is logged because it has a 1 second timeout
