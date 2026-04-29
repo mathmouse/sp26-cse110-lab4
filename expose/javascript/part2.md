@@ -57,3 +57,26 @@ Calling the function for the greeting property in the student object: student.gr
 Accessing the name property of the object in the Favorite Teacher property in student: student['Favorite Teacher'].name
 
 Access index zero in the array of the courseLoad property of the student object: student.courseLoad[0]
+
+## Basic Operators & Type Conversion
+
+13. Arithmetic
+
+    - '3' + 2 : '32' , it treated each as a string and concatenated
+    - '3' - 2 : 1 , it treated each as an int and performed subtraction
+    - 3 + null : 3 . treated null as 0
+    - '3' + null : '3null' , treated both as strings
+    - true + 3 : 4 , treated true as 1
+    - false + null : 0 , treated both as 0
+    - '3' + undefined : '3undefined' , treated both as strings
+    - '3' - undefined : Nan , cannot subtract undefined value
+
+14. Comparison
+
+    - '2' > 1 : true , 2 treated as a number is bigger than 1
+    - '2' < '12' : false , both are strings
+    - 2 == '2' : true , performs type conversion
+    - 2 === '2' : false , js has a strict comparison notation that checks if type matches as well
+    - true == 2 : false , true would be 1 which is different than 2
+    - true == Boolean(2) : true , Boolean(2) is true
+
