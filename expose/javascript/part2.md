@@ -80,3 +80,8 @@ Access index zero in the array of the courseLoad property of the student object:
     - true == 2 : false , true would be 1 which is different than 2
     - true == Boolean(2) : true , Boolean(2) is true
 
+## Functions
+
+<img src="../../pictures/lab4-part1b-q17.png" width="50%">
+
+17. The function modifyArray will create an array newArr and begin a for loop. For each value within the passed array [1,2,3], the loop calls the doSomething function, which takes the value and multiplies it by 2. Those doubled values are pushed within newArr, which is then returned. newArr = [2,4,6]
